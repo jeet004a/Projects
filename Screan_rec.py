@@ -1,3 +1,4 @@
+#This is a window screen recoder 
 from datetime import datetime
 from PIL import  ImageGrab
 import numpy as np
