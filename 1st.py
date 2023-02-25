@@ -9,5 +9,5 @@ for i in range(0,n):
     s.append(a)
 
 print("Your stack contains:-",end="")
-for i in range(0,len(s)):
+for i in range(0,len(s)): 
     print(s.pop(),end="")
